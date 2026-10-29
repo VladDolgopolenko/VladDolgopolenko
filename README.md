@@ -15,4 +15,4 @@
 - *скоро:* корпоративный сайт, интернет-магазин, интерактивная страница
 
 ### Связаться
-Telegram: [@ваш_ник](https://t.me/ваш_ник) · Email: ваша@почта
+Telegram: [@ваш_ник](https://t.me/@foxzxc) · Email: vlad.dolgopolenko@yandex.ru
