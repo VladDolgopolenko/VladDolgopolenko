@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Влад 👋
 
-<!--
-**VladDolgopolenko/VladDolgopolenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Верстальщик с опытом **более 2 лет** в штате. Верстаю сайты по макетам Figma: лендинги, корпоративные сайты, интернет-магазины.
 
-Here are some ideas to get you started:
+### Что умею
+- Адаптивная вёрстка от 320 px, кроссбраузерность, pixel-perfect
+- HTML5, CSS3, SCSS, БЭМ, JavaScript
+- Оптимизация скорости загрузки (Lighthouse 90+)
+- Tilda, WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+Коммерческие проекты под NDA, поэтому здесь — демо-работы того же уровня:
+
+- 🦷 **Лендинг стоматологической клиники** — [сайт](ссылка) · [код](ссылка)
+- *скоро:* корпоративный сайт, интернет-магазин, интерактивная страница
+
+### Связаться
+Telegram: [@ваш_ник](https://t.me/ваш_ник) · Email: ваша@почта
